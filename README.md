@@ -1,5 +1,5 @@
 # Lab: Fun with Functions
-
+hello
 ## Problem Domain
 
 Today in lab you will create your own repo using the [code-201-lab5a Template Repo](https://github.com/codefellows/code-201-lab5a){:target="_blank"}, and then create solutions to some code problems such that your solutions pass the included tests.
